@@ -16,4 +16,4 @@ Below the graph, there will be a list of all the functions that the compiler cou
 
 Note: The idea is to be able to tackle the functions that consume the most gas to achieve better optimization of the Solidity code.
 
-![view][]
+![View](https://github.com/DigiCris/gasCoverage/blob/main/view.png)
